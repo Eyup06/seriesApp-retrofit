@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TVSeriesApp</string>
+    <string name="tv_series_most_popular">TV Series | Most Popular</string>
+    <string name="read_more">Read More</string>
+    <string name="u2022">•</string>
+    <string name="website">Website</string>
+    <string name="ep_sodes">Epısodes</string>
+</resources>
