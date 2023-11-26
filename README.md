@@ -1,3 +1,3 @@
 # TVSeriesApp
-seriesApp-retrofit
 
+Retrofit and Lifecycle used TVSeriesApp.
